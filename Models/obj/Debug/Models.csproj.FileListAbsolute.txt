@@ -1,0 +1,5 @@
+C:\Users\Z00460PW\source\repos\PromotionApp\Models\bin\Debug\Models.dll
+C:\Users\Z00460PW\source\repos\PromotionApp\Models\bin\Debug\Models.pdb
+C:\Users\Z00460PW\source\repos\PromotionApp\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Z00460PW\source\repos\PromotionApp\Models\obj\Debug\Models.dll
+C:\Users\Z00460PW\source\repos\PromotionApp\Models\obj\Debug\Models.pdb
